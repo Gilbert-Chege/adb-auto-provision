@@ -1,0 +1,13 @@
+Folder structure for implementing 
+ADB_AutoProvisioner/
+│
+├── main.py
+│
+├── adb/
+│   ├── adb.exe
+│   ├── AdbWinApi.dll
+│   └── AdbWinUsbApi.dll
+│
+└── (optional files)
+    ├── icon.ico
+    └── requirements.txt
